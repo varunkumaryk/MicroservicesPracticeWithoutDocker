@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiDotNetCoreWithoutDocker", "WebApiDotNetCoreWithoutDocker\WebApiDotNetCoreWithoutDocker.csproj", "{27BEABC6-7E11-4137-8D0E-09C5FA4BB6DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{587AED89-B4FC-4F92-9CD0-7691CD291E09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{27BEABC6-7E11-4137-8D0E-09C5FA4BB6DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27BEABC6-7E11-4137-8D0E-09C5FA4BB6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27BEABC6-7E11-4137-8D0E-09C5FA4BB6DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{587AED89-B4FC-4F92-9CD0-7691CD291E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587AED89-B4FC-4F92-9CD0-7691CD291E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587AED89-B4FC-4F92-9CD0-7691CD291E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587AED89-B4FC-4F92-9CD0-7691CD291E09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
